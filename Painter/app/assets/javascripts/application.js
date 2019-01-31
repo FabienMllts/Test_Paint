@@ -14,4 +14,11 @@
 //= require activestorage
 //= require turbolinks
 //= require bootstrap
+//= require jquery
+//= require jquery_ujs
+//= require freelancer/classie
+//= require freelancer/cbpAnimatedHeader
+//= require freelancer/contact_me
+
+
 //= require_tree .
